@@ -1,5 +1,5 @@
 # DIYPersonalNotesTaker
-Quickly jot down notes in your browser
+This is a Google Chrome Extension that let you quickly jot down notes in your Chrome browser
 
 Here's how you load this extension into Chrome:
 1. Open Google Chrome and type chrome://extensions in the address bar.
